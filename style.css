@@ -160,7 +160,7 @@ img {
 .navbar {
   position: fixed;
   background-color: #3b3b3b;
-  top: -100%;
+  top: -200%;
   right: 0;
   left: 0;
   height: 100vh;
